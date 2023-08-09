@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-deneme/static/css/main.9f2626f8.css",
-    "main.js": "/react-deneme/static/js/main.5767bae4.js",
-    "index.html": "/react-deneme/index.html",
-    "main.9f2626f8.css.map": "/react-deneme/static/css/main.9f2626f8.css.map",
-    "main.5767bae4.js.map": "/react-deneme/static/js/main.5767bae4.js.map"
+    "main.css": "/Turkey-map-weather-app/static/css/main.9f2626f8.css",
+    "main.js": "/Turkey-map-weather-app/static/js/main.5767bae4.js",
+    "index.html": "/Turkey-map-weather-app/index.html",
+    "main.9f2626f8.css.map": "/Turkey-map-weather-app/static/css/main.9f2626f8.css.map",
+    "main.5767bae4.js.map": "/Turkey-map-weather-app/static/js/main.5767bae4.js.map"
   },
   "entrypoints": [
     "static/css/main.9f2626f8.css",
