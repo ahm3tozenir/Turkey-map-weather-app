@@ -50,7 +50,6 @@ function Display({data}){
 
     return(
         <>
-            {console.log(icon)}
             <div className="info">
                 <p className="city-name">{data.name}</p>
                 <p><span className={styles.degree}>{data.main.temp}</span> °C</p>

@@ -1,7 +1,7 @@
 {
   "name": "hava-durumu",
   "version": "0.1.0",
-  "homepage": "https://ahm3tozenir.github.io/react-deneme/",
+  "homepage": "https://ahm3tozenir.github.io/Turkey-map-weather-app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
