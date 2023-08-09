@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Turkey-map-weather-app/static/css/main.78bfd0a6.css",
+    "main.css": "/Turkey-map-weather-app/static/css/main.f82b02b2.css",
     "main.js": "/Turkey-map-weather-app/static/js/main.8bb4d40d.js",
     "index.html": "/Turkey-map-weather-app/index.html",
-    "main.78bfd0a6.css.map": "/Turkey-map-weather-app/static/css/main.78bfd0a6.css.map",
+    "main.f82b02b2.css.map": "/Turkey-map-weather-app/static/css/main.f82b02b2.css.map",
     "main.8bb4d40d.js.map": "/Turkey-map-weather-app/static/js/main.8bb4d40d.js.map"
   },
   "entrypoints": [
-    "static/css/main.78bfd0a6.css",
+    "static/css/main.f82b02b2.css",
     "static/js/main.8bb4d40d.js"
   ]
 }
